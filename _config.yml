@@ -1,1 +1,2 @@
 include: [".well-known"]
+content-type: text/plain
